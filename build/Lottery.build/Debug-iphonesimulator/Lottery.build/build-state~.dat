@@ -1,0 +1,247 @@
+TLottery
+v7
+r0
+t281412833.050990
+cCheck dependencies
+cProcessInfoPlistFile /Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/Info.plist Lottery-Info.plist
+cCompileXIB /Users/eric/Documents/iphone/Lottery/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Lottery.app/History.png History.png
+cProcessPCH /var/folders/63/639GNrNbFzW7tJoUN5R0j++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lottery_Prefix-ffvtwzdcwgjnulbqwmrttoxnzwfo/Lottery_Prefix.pch.gch Lottery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/main.o /Users/eric/Documents/iphone/Lottery/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/LotteryAppDelegate.o /Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/LOLotteryHistoryController.o /Users/eric/Documents/iphone/Lottery/Classes/LOLotteryHistoryController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AEFB56000000000000000EE
+t1257223520
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/eric/Documents/iphone/Lottery/Classes/LOLotteryHistoryController.h
+c000000004B15CBB500000000000000F0
+t1259719605
+s240
+i<UIKit/UIKit.h>
+
+N/Users/eric/Documents/iphone/Lottery/Classes/LOLotteryHistoryController.m
+c000000004B15C549000000000000109F
+t1259717961
+s4255
+i"LOLotteryHistoryController.h"
+
+N/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.h
+c000000004B15C5630000000000000248
+t1259717987
+s584
+i<UIKit/UIKit.h>
+
+N/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m
+c000000004B15CD4C0000000000000368
+t1259720012
+s872
+i"LotteryAppDelegate.h"
+i"LOLotteryHistoryController.h"
+
+N/Users/eric/Documents/iphone/Lottery/History.png
+c000000004B15C9D00000000000000C40
+t1259719120
+s3136
+
+N/Users/eric/Documents/iphone/Lottery/Lottery_Prefix.pch
+c000000004B15C38E00000000000000B7
+t1259717518
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/eric/Documents/iphone/Lottery/MainWindow.xib
+c000000004B15C38E0000000000001F53
+t1259717518
+s8019
+
+N/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app
+t2
+s0
+
+N/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app.dSYM
+t2
+s0
+
+N/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/History.png
+t1259720029
+s3136
+
+N/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/Info.plist
+t1259720029
+s564
+
+N/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/Lottery
+t2
+s0
+
+N/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/MainWindow.nib
+t1259720030
+s1345
+
+N/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/PkgInfo
+t1259720029
+s8
+
+N/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/LOLotteryHistoryController.o
+t1259720033
+s32728
+
+N/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/Lottery.LinkFileList
+c000000004B15CD5D000000000000018C
+t1259720029
+s396
+
+N/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/LotteryAppDelegate.o
+t2
+s0
+
+N/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/main.o
+t1259720032
+s5952
+
+N/Users/eric/Documents/iphone/Lottery/main.m
+c000000004B15C38E0000000000000161
+t1259717518
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/63/639GNrNbFzW7tJoUN5R0j++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lottery_Prefix-ffvtwzdcwgjnulbqwmrttoxnzwfo/Lottery_Prefix.pch.gch
+t1259720032
+s13034960
+
+NLottery-Info.plist
+c000000004B15C38E000000000000038D
+t1259717518
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies281412829#281412829#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/LOLotteryHistoryController.o /Users/eric/Documents/iphone/Lottery/Classes/LOLotteryHistoryController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281412832.991792
+e281412833.050772
+r1
+xCompileC
+xbuild/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/LOLotteryHistoryController.o
+x/Users/eric/Documents/iphone/Lottery/Classes/LOLotteryHistoryController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/eric/Documents/iphone/Lottery/Classes/LOLotteryHistoryController.m281412832#281412833#0(0"0(0#0#73"/Users/eric/Documents/iphone/Lottery/Classes/LOLotteryHistoryController.m4300885448#1889"    cd /Users/eric/Documents/iphone/Lottery    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-generated-files.hmap -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-own-target-headers.hmap -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-all-target-headers.hmap -iquote /Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-project-headers.hmap -F/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator -I/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/include -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/DerivedSources/i386 -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/DerivedSources -include /var/folders/63/639GNrNbFzW7tJoUN5R0j++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lottery_Prefix-ffvtwzdcwgjnulbqwmrttoxnzwfo/Lottery_Prefix.pch -c /Users/eric/Documents/iphone/Lottery/Classes/LOLotteryHistoryController.m -o /Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/LOLotteryHistoryController.o0#
+
+CCompileC build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/LotteryAppDelegate.o /Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281412832.701076
+e281412832.991684
+r0
+xCompileC
+xbuild/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/LotteryAppDelegate.o
+x/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:9:
+o/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.h:14: error: expected specifier-qualifier-list before 'LOLotteryHistoryController'
+o/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.h:19: error: expected specifier-qualifier-list before 'LOLotteryHistoryController'
+o/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m: In function '-[LotteryAppDelegate createView]':
+o/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:34: error: 'lotteryHistoryController' undeclared (first use in this function)
+o/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:34: error: (Each undeclared identifier is reported only once
+o/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:34: error: for each function it appears in.)
+o/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m: At top level:
+o/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:40: warning: property 'tabBarController' requires method '-tabBarController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:40: warning: property 'tabBarController' requires the method 'setTabBarController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@73"Compile /Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m281412832#281412833#0(1410"In file included from /Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:9:/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.h:14: error: expected specifier-qualifier-list before 'LOLotteryHistoryController'/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.h:19: error: expected specifier-qualifier-list before 'LOLotteryHistoryController'/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m: In function '-[LotteryAppDelegate createView]':/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:34: error: 'lotteryHistoryController' undeclared (first use in this function)/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:34: error: (Each undeclared identifier is reported only once/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:34: error: for each function it appears in.)/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m: At top level:/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:40: warning: property 'tabBarController' requires method '-tabBarController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m:40: warning: property 'tabBarController' requires the method 'setTabBarController:' to be defined - use @synthesize, @dynamic or provide a method implementation6(4@69"Expected specifier-qualifier-list before 'LOLotteryHistoryController'281412832#91#147#2(7@87"In file included from /Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m281412832#18446744073709551615#0#0(6@65"/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m281412812#9#0#9#0#0"0(13@138"Expected specifier-qualifier-list before 'LOLotteryHistoryController' in /Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.h281412832#18446744073709551615#0#0(6@65"/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.h281410787#14#0#14#0#0"0(6@65"/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.h281410787#14#0#14#0#19"expected * before *0(4@69"Expected specifier-qualifier-list before 'LOLotteryHistoryController'281412832#238#147#2(7@87"In file included from /Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m281412832#18446744073709551615#0#0(6@65"/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m281412812#9#0#9#0#0"0(13@138"Expected specifier-qualifier-list before 'LOLotteryHistoryController' in /Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.h281412832#18446744073709551615#0#0(6@65"/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.h281410787#19#0#19#0#0"0(6@65"/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.h281410787#19#0#19#0#19"expected * before *0(4@66"'lotteryHistoryController' undeclared (first use in this function)281412832#500#144#0(6@65"/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m281412812#34#0#34#0#43"'*' undeclared (first use in this function)0(23@13"At top level:281412832#882#81#0(6@65"/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m281412812#0#0#0#0#0"0(22@140"Property 'tabBarController' requires method '-tabBarController' to be defined - use @synthesize, @dynamic or provide a method implementation281412832#963#220#0(6@65"/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m281412812#40#0#40#0#0"0(22@147"Property 'tabBarController' requires the method 'setTabBarController:' to be defined - use @synthesize, @dynamic or provide a method implementation281412832#1183#227#0(6@65"/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m281412812#40#0#40#0#0"0(0#0#65"/Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m4300885448#1873"    cd /Users/eric/Documents/iphone/Lottery    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-generated-files.hmap -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-own-target-headers.hmap -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-all-target-headers.hmap -iquote /Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-project-headers.hmap -F/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator -I/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/include -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/DerivedSources/i386 -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/DerivedSources -include /var/folders/63/639GNrNbFzW7tJoUN5R0j++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lottery_Prefix-ffvtwzdcwgjnulbqwmrttoxnzwfo/Lottery_Prefix.pch -c /Users/eric/Documents/iphone/Lottery/Classes/LotteryAppDelegate.m -o /Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/LotteryAppDelegate.o1#
+
+CCompileC build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/main.o /Users/eric/Documents/iphone/Lottery/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s281412832.699689
+e281412832.992843
+r1
+xCompileC
+xbuild/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/main.o
+x/Users/eric/Documents/iphone/Lottery/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/eric/Documents/iphone/Lottery/main.m281412832#281412833#0(0"0(0#0#43"/Users/eric/Documents/iphone/Lottery/main.m4300885448#1837"    cd /Users/eric/Documents/iphone/Lottery    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-generated-files.hmap -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-own-target-headers.hmap -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-all-target-headers.hmap -iquote /Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-project-headers.hmap -F/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator -I/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/include -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/DerivedSources/i386 -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/DerivedSources -include /var/folders/63/639GNrNbFzW7tJoUN5R0j++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lottery_Prefix-ffvtwzdcwgjnulbqwmrttoxnzwfo/Lottery_Prefix.pch -c /Users/eric/Documents/iphone/Lottery/main.m -o /Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/eric/Documents/iphone/Lottery/MainWindow.xib
+s281412829.505176
+e281412831.510297
+r1
+xCompileXIB
+x/Users/eric/Documents/iphone/Lottery/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib281412829#281412831#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#51"/Users/eric/Documents/iphone/Lottery/MainWindow.xib4300885448#476"    cd /Users/eric/Documents/iphone/Lottery    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/MainWindow.nib /Users/eric/Documents/iphone/Lottery/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/Lottery.app/History.png History.png
+s281412829.516855
+e281412829.587588
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Lottery.app/History.png
+xHistory.png
+lSLF07#2@16"Copy History.png281412829#281412829#0(0"0(0#0#48"/Users/eric/Documents/iphone/Lottery/History.png4300885448#449"    cd /Users/eric/Documents/iphone/Lottery    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/eric/Documents/iphone/Lottery/History.png /Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app0#
+
+CGenerateDSYMFile /Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app.dSYM /Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/Lottery
+r0
+
+CLd /Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/Lottery normal i386
+r0
+
+CProcessInfoPlistFile /Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/Info.plist Lottery-Info.plist
+s281412829.410955
+e281412829.505061
+r1
+xProcessInfoPlistFile
+x/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/Info.plist
+xLottery-Info.plist
+lSLF07#2@26"Process Lottery-Info.plist281412829#281412829#0(0"0(0#0#55"/Users/eric/Documents/iphone/Lottery/Lottery-Info.plist31525648366108776#473"    cd /Users/eric/Documents/iphone/Lottery    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Lottery-Info.plist -genpkginfo /Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app/Info.plist0#
+
+CProcessPCH /var/folders/63/639GNrNbFzW7tJoUN5R0j++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lottery_Prefix-ffvtwzdcwgjnulbqwmrttoxnzwfo/Lottery_Prefix.pch.gch Lottery_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s281412831.510619
+e281412832.699550
+r1
+xProcessPCH
+x/var/folders/63/639GNrNbFzW7tJoUN5R0j++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lottery_Prefix-ffvtwzdcwgjnulbqwmrttoxnzwfo/Lottery_Prefix.pch.gch
+xLottery_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Lottery_Prefix.pch281412831#281412832#0(0"0(0#0#55"/Users/eric/Documents/iphone/Lottery/Lottery_Prefix.pch4300885448#1731"    cd /Users/eric/Documents/iphone/Lottery    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-generated-files.hmap -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-own-target-headers.hmap -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-all-target-headers.hmap -iquote /Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/Lottery-project-headers.hmap -F/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator -I/Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/include -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/DerivedSources/i386 -I/Users/eric/Documents/iphone/Lottery/build/Lottery.build/Debug-iphonesimulator/Lottery.build/DerivedSources -c /Users/eric/Documents/iphone/Lottery/Lottery_Prefix.pch -o /var/folders/63/639GNrNbFzW7tJoUN5R0j++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lottery_Prefix-ffvtwzdcwgjnulbqwmrttoxnzwfo/Lottery_Prefix.pch.gch0#
+
+CTouch /Users/eric/Documents/iphone/Lottery/build/Debug-iphonesimulator/Lottery.app
+r0
+

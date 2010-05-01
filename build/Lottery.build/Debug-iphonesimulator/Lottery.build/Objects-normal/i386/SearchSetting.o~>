@@ -1,0 +1,5 @@
+/Users/eric/Documents/iphone/Lottery/Classes/SearchSetting.m: In function '-[SearchSetting viewDidLoad]':
+/Users/eric/Documents/iphone/Lottery/Classes/SearchSetting.m:28: warning: unused variable 'settings'
+/Users/eric/Documents/iphone/Lottery/Classes/SearchSetting.m: At top level:
+/Users/eric/Documents/iphone/Lottery/Classes/SearchSetting.m:158: warning: property 'settings' requires method '-settings' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/eric/Documents/iphone/Lottery/Classes/SearchSetting.m:158: warning: property 'settings' requires the method 'setSettings:' to be defined - use @synthesize, @dynamic or provide a method implementation
